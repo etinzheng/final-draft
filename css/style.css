@@ -8,7 +8,7 @@ body{
 	padding:1%;
 	font-size:150%;
 	line-height: 1.2;
-	background-image: url('../images/background-blue.png');
+	background-image: url('../images/mona-eendra-vC8wj_Kphak-unsplash.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -285,7 +285,7 @@ h2{
 
 
 /* desktop view */
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 992px) {
 
 	.card-main{
 		display: grid;
